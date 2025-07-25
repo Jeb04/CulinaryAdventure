@@ -17,10 +17,10 @@ salty, and spicy." <br> - Chef Somchai </blockquote>
 
 <h3>Ingredients</h3>
 <ul>
-  <li><srong>Lemongrass: 2 stalks</srong></li>
-  <li><stong>Thai basil: 1 cup</stong></li>
-  <li><stong>Kaffir Lime Leaves: 3 leaves</stong></li>
-  <li><stong>Shrimp: 500g</stong></li>
+  <li><strong>Lemongrass: 2 stalks</strong></li>
+  <li><strong>Thai basil: 1 cup</strong></li>
+  <li><strong>Kaffir Lime Leaves: 3 leaves</strong></li>
+  <li><strong>Shrimp: 500g</strong></li>
   </ul>
 
   <h3>Preparation</h3>
